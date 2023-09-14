@@ -21,6 +21,7 @@ body{
     color: #fff;
 text-shadow: 0px 0px 5px #000;
     margin-bottom: 20px;
+    text-align: center;
 }
 .mainContainer>h1>span{
     color: #007fff;
