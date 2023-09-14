@@ -1,0 +1,1074 @@
+{
+
+  "BiologyQuesions":[
+   {
+     "question": "Which organelle is responsible for photosynthesis in plant cells?",
+     "options": ["Mitochondria", "Nucleus", "Chloroplast", "Endoplasmic Reticulum"],
+     "correctAnswer": "Chloroplast"
+   },
+   {
+     "question": "What is the main function of red blood cells in the human body?",
+     "options": ["Carrying oxygen", "Digesting food", "Producing insulin", "Filtering waste"],
+     "correctAnswer": "Carrying oxygen"
+   },
+   {
+     "question": "Which gas do plants absorb from the atmosphere and use during photosynthesis?",
+     "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+     "correctAnswer": "Carbon dioxide"
+   },
+   {
+     "question": "What is the largest organ in the human body?",
+     "options": ["Liver", "Brain", "Heart", "Skin"],
+     "correctAnswer": "Skin"
+   },
+   {
+     "question": "What is the powerhouse of the cell?",
+     "options": ["Nucleus", "Golgi apparatus", "Mitochondria", "Ribosome"],
+     "correctAnswer": "Mitochondria"
+   },
+   {
+     "question": "Which vitamin is synthesized by the skin when exposed to sunlight?",
+     "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+     "correctAnswer": "Vitamin D"
+   },
+   {
+     "question": "Which gas is produced as a result of the process of respiration in humans?",
+     "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+     "correctAnswer": "Carbon dioxide"
+   },
+   {
+     "question": "What is the chemical name for table salt?",
+     "options": ["Sodium chloride", "Potassium iodide", "Calcium carbonate", "Magnesium sulfate"],
+     "correctAnswer": "Sodium chloride"
+   },
+   {
+     "question": "Which part of a plant anchors it to the ground and absorbs water and nutrients?",
+     "options": ["Leaves", "Flowers", "Stem", "Roots"],
+     "correctAnswer": "Roots"
+   },
+   {
+     "question": "What is the function of white blood cells in the immune system?",
+     "options": ["Carrying oxygen", "Digesting food", "Fighting infections", "Producing antibodies"],
+     "correctAnswer": "Fighting infections"
+   },
+   {
+     "question": "Which gas do humans exhale as a waste product of respiration?",
+     "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+     "correctAnswer": "Carbon dioxide"
+   },
+   {
+     "question": "What is the primary role of the pancreas in the digestive system?",
+     "options": ["Filtering blood", "Producing bile", "Regulating body temperature", "Producing digestive enzymes"],
+     "correctAnswer": "Producing digestive enzymes"
+   },
+   {
+     "question": "Which organ in the human body stores bile and aids in digestion?",
+     "options": ["Stomach", "Liver", "Pancreas", "Gallbladder"],
+     "correctAnswer": "Gallbladder"
+   },
+   {
+     "question": "What is the smallest unit of life?",
+     "options": ["Cell", "Atom", "Molecule", "Organ"],
+     "correctAnswer": "Cell"
+   },
+   {
+     "question": "Which gas is responsible for the greenhouse effect in the Earth's atmosphere?",
+     "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+     "correctAnswer": "Carbon dioxide"
+   },
+   {
+     "question": "What is the process by which plants make their own food using sunlight?",
+     "options": ["Respiration", "Photosynthesis", "Fermentation", "Transpiration"],
+     "correctAnswer": "Photosynthesis"
+   },
+   {
+     "question": "Which gas is used in the process of welding and as a coolant in nuclear reactors?",
+     "options": ["Oxygen", "Argon", "Helium", "Hydrogen"],
+     "correctAnswer": "Argon"
+   },
+   {
+     "question": "What is the chemical name for the sugar found in DNA?",
+     "options": ["Glucose", "Lactose", "Ribose", "Deoxyribose"],
+     "correctAnswer": "Deoxyribose"
+   },
+   {
+     "question": "Which part of a plant is responsible for the process of transpiration?",
+     "options": ["Leaves", "Roots", "Stem", "Flowers"],
+     "correctAnswer": "Leaves"
+   },
+   {
+     "question": "Which hormone is known as the 'stress hormone' in the human body?",
+     "options": ["Insulin", "Adrenaline", "Estrogen", "Testosterone"],
+     "correctAnswer": "Adrenaline"
+   },
+   {
+     "question": "What is the function of the alveoli in the respiratory system?",
+     "options": ["Filtering air", "Producing mucus", "Exchange of gases", "Digesting food"],
+     "correctAnswer": "Exchange of gases"
+   },
+   {
+     "question": "Which vitamin is commonly known as the 'sunshine vitamin'?",
+     "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+     "correctAnswer": "Vitamin D"
+   },
+   {
+     "question": "What is the main function of the circulatory system in the human body?",
+     "options": ["Digesting food", "Transporting oxygen and nutrients", "Producing hormones", "Filtering waste"],
+     "correctAnswer": "Transporting oxygen and nutrients"
+   },
+   {
+     "question": "Which gas is used by marine organisms to build their shells and skeletons?",
+     "options": ["Oxygen", "Carbon dioxide", "Calcium carbonate", "Methane"],
+     "correctAnswer": "Calcium carbonate"
+   },
+   {
+     "question": "What is the process by which a cell divides into two identical daughter cells?",
+     "options": ["Mitosis", "Meiosis", "Fertilization", "Apoptosis"],
+     "correctAnswer": "Mitosis"
+   },
+   {
+     "question": "Which part of the human eye controls the amount of light entering the pupil?",
+     "options": ["Cornea", "Lens", "Retina", "Iris"],
+     "correctAnswer": "Iris"
+   },
+   {
+     "question": "What is the chemical name for the pigment responsible for the green color of plants?",
+     "options": ["Melanin", "Hemoglobin", "Chlorophyll", "Keratin"],
+     "correctAnswer": "Chlorophyll"
+   },
+   {
+     "question": "Which gas is released by trees and plants during the process of photosynthesis?",
+     "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+     "correctAnswer": "Oxygen"
+   },{
+      "question": "What is the function of the nucleus in a cell?",
+      "options": ["Energy production", "Protein synthesis", "Storage of genetic material", "Waste elimination"],
+      "correctAnswer": "Storage of genetic material"
+    },
+    {
+      "question": "Which part of the human brain is responsible for controlling basic functions like breathing and heart rate?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Pons"],
+      "correctAnswer": "Medulla oblongata"
+    }
+ ]
+ 
+  
+  
+   ,"ChemistryQuestions":[
+    {
+       "question":"What is the chemical symbol for oxygen?",
+       "options":[
+          "O",
+          "Ox",
+          "O2",
+          "Oz"
+       ],
+       "correctAnswer":"O"
+    },
+    {
+       "question":"Which gas is most abundant in Earth's atmosphere?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+       ],
+       "correctAnswer":"Nitrogen"
+    },
+    {
+       "question":"What is the chemical formula for water?",
+       "options":[
+          "H2O2",
+          "CO2",
+          "H2O",
+          "CH4"
+       ],
+       "correctAnswer":"H2O"
+    },
+    {
+       "question":"What is the atomic number of carbon?",
+       "options":[
+          "4",
+          "6",
+          "8",
+          "12"
+       ],
+       "correctAnswer":"6"
+    },
+    {
+       "question":"Which element is a noble gas?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Neon",
+          "Carbon"
+       ],
+       "correctAnswer":"Neon"
+    },
+    {
+       "question":"What is the chemical formula for methane?",
+       "options":[
+          "CO2",
+          "H2O",
+          "CH4",
+          "NH3"
+       ],
+       "correctAnswer":"CH4"
+    },
+    {
+       "question":"What is the pH of a neutral solution?",
+       "options":[
+          "0",
+          "7",
+          "14",
+          "-7"
+       ],
+       "correctAnswer":"7"
+    },
+    {
+       "question":"Which gas is responsible for the greenhouse effect?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+       ],
+       "correctAnswer":"Carbon dioxide"
+    },
+    {
+       "question":"What is the chemical symbol for gold?",
+       "options":[
+          "Go",
+          "Au",
+          "Ag",
+          "Go2"
+       ],
+       "correctAnswer":"Au"
+    },
+    {
+       "question":"What is the main component of natural gas?",
+       "options":[
+          "Carbon dioxide",
+          "Methane",
+          "Oxygen",
+          "Hydrogen"
+       ],
+       "correctAnswer":"Methane"
+    },
+    {
+       "question":"What is the chemical formula for sulfuric acid?",
+       "options":[
+          "H2SO4",
+          "HCl",
+          "NaOH",
+          "CO2"
+       ],
+       "correctAnswer":"H2SO4"
+    },
+    {
+       "question":"What is the chemical symbol for sodium?",
+       "options":[
+          "So",
+          "Na",
+          "Sn",
+          "S"
+       ],
+       "correctAnswer":"Na"
+    },
+    {
+       "question":"What is the chemical formula for ammonia?",
+       "options":[
+          "CO2",
+          "H2O",
+          "CH4",
+          "NH3"
+       ],
+       "correctAnswer":"NH3"
+    },
+    {
+       "question":"What is the chemical symbol for silver?",
+       "options":[
+          "Si",
+          "Ag",
+          "Al",
+          "S"
+       ],
+       "correctAnswer":"Ag"
+    },
+    {
+       "question":"Which gas do plants absorb from the atmosphere for photosynthesis?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+       ],
+       "correctAnswer":"Carbon dioxide"
+    },
+    {
+       "question":"What is the chemical formula for hydrochloric acid?",
+       "options":[
+          "H2SO4",
+          "HCl",
+          "NaOH",
+          "CO2"
+       ],
+       "correctAnswer":"HCl"
+    },
+    {
+       "question":"What is the chemical symbol for iron?",
+       "options":[
+          "Ir",
+          "Io",
+          "Fe",
+          "Fr"
+       ],
+       "correctAnswer":"Fe"
+    },
+    {
+       "question":"What is the chemical formula for carbon dioxide?",
+       "options":[
+          "CO",
+          "CO2",
+          "CH4",
+          "C2H6"
+       ],
+       "correctAnswer":"CO2"
+    },
+    {
+       "question":"What is the atomic number of hydrogen?",
+       "options":[
+          "1",
+          "2",
+          "3",
+          "4"
+       ],
+       "correctAnswer":"1"
+    },
+    {
+       "question":"Which gas is known as laughing gas?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Nitrous oxide",
+          "Carbon dioxide"
+       ],
+       "correctAnswer":"Nitrous oxide"
+    },
+    {
+       "question":"What is the chemical symbol for potassium?",
+       "options":[
+          "K",
+          "P",
+          "Po",
+          "Ka"
+       ],
+       "correctAnswer":"K"
+    },
+    {
+       "question":"What is the chemical formula for table salt?",
+       "options":[
+          "H2O",
+          "NaOH",
+          "CH4",
+          "NaCl"
+       ],
+       "correctAnswer":"NaCl"
+    },
+    {
+       "question":"What is the chemical symbol for mercury?",
+       "options":[
+          "He",
+          "Hg",
+          "Me",
+          "Hy"
+       ],
+       "correctAnswer":"Hg"
+    },
+    {
+       "question":"What is the chemical formula for glucose?",
+       "options":[
+          "C6H12O6",
+          "CO2",
+          "CH4",
+          "C2H6O"
+       ],
+       "correctAnswer":"C6H12O6"
+    },
+    {
+       "question":"What is the chemical symbol for lead?",
+       "options":[
+          "La",
+          "Le",
+          "Ld",
+          "Pb"
+       ],
+       "correctAnswer":"Pb"
+    },
+    {
+       "question":"Which element is essential for the process of photosynthesis?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Carbon",
+          "Hydrogen"
+       ],
+       "correctAnswer":"Carbon"
+    },
+    {
+       "question":"What is the chemical formula for acetic acid?",
+       "options":[
+          "H2SO4",
+          "HCl",
+          "NaOH",
+          "CH3COOH"
+       ],
+       "correctAnswer":"CH3COOH"
+    },
+    {
+       "question":"What is the chemical symbol for copper?",
+       "options":[
+          "Cp",
+          "Cu",
+          "Co",
+          "Cr"
+       ],
+       "correctAnswer":"Cu"
+    },
+    {
+       "question":"Which gas is used for extinguishing fires?",
+       "options":[
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Carbon monoxide"
+       ],
+       "correctAnswer":"Carbon dioxide"
+    },
+    {
+      "question":"What is the chemical formula for hydrogen peroxide?",
+      "options":[
+         "H2O",
+         "H2O2",
+         "HO2",
+         "H3O2"
+      ],
+      "correctAnswer":"H2O2"
+   }
+ ]
+  
+  
+  
+  
+  
+  
+  ,
+    "MathQuestions":[
+      {
+        "question":"What is the square root of 25?",
+        "options":[
+           "5",
+           "10",
+           "15",
+           "25"
+        ],
+        "correctAnswer":"5"
+     },
+     {
+        "question":"Which of the following is a prime number?",
+        "options":[
+           "4",
+           "7",
+           "12",
+           "15"
+        ],
+        "correctAnswer":"7"
+     },
+     {
+        "question":"What is the value of π (pi) approximately?",
+        "options":[
+           "2",
+           "3",
+           "3.14",
+           "4"
+        ],
+        "correctAnswer":"3.14"
+     },
+     {
+        "question":"If x = 3 and y = 4, what is the value of x^2 + y^2?",
+        "options":[
+           "5",
+           "7",
+           "9",
+           "16"
+        ],
+        "correctAnswer":"16"
+     },
+     {
+        "question":"What is the sum of the angles in a triangle?",
+        "options":[
+           "90 degrees",
+           "180 degrees",
+           "270 degrees",
+           "360 degrees"
+        ],
+        "correctAnswer":"180 degrees"
+     },
+     {
+        "question":"If a square has a side length of 6 units, what is its area?",
+        "options":[
+           "12 square units",
+           "18 square units",
+           "24 square units",
+           "36 square units"
+        ],
+        "correctAnswer":"36 square units"
+     },
+     {
+        "question":"What is the result of 5 multiplied by 9?",
+        "options":[
+           "10",
+           "14",
+           "45",
+           "54"
+        ],
+        "correctAnswer":"54"
+     },
+     {
+        "question":"What is the value of 3! (3 factorial)?",
+        "options":[
+           "3",
+           "6",
+           "9",
+           "12"
+        ],
+        "correctAnswer":"6"
+     },
+     {
+        "question":"If a right triangle has one leg of length 3 and the other leg of length 4, what is the length of the hypotenuse?",
+        "options":[
+           "5",
+           "7",
+           "9",
+           "12"
+        ],
+        "correctAnswer":"5"
+     },
+     {
+        "question":"What is the result of 8 divided by 2?",
+        "options":[
+           "2",
+           "4",
+           "6",
+           "8"
+        ],
+        "correctAnswer":"4"
+     }
+,
+       {
+          "question":"What is the result of 12 minus 5?",
+          "options":[
+             "7",
+             "10",
+             "17",
+             "2"
+          ],
+          "correctAnswer":"7"
+       },
+       {
+          "question":"If a rectangle has a length of 8 units and a width of 6 units, what is its perimeter?",
+          "options":[
+             "12 units",
+             "20 units",
+             "28 units",
+             "48 units"
+          ],
+          "correctAnswer":"20 units"
+       },
+       {
+          "question":"What is the result of 7 multiplied by 3?",
+          "options":[
+             "10",
+             "17",
+             "21",
+             "30"
+          ],
+          "correctAnswer":"21"
+       },
+       {
+          "question":"If a circle has a radius of 5 units, what is its circumference (approximately)?",
+          "options":[
+             "10 units",
+             "15 units",
+             "20 units",
+             "31.4 units"
+          ],
+          "correctAnswer":"31.4 units"
+       },
+       {
+          "question":"What is the result of 9 squared?",
+          "options":[
+             "18",
+             "81",
+             "27",
+             "63"
+          ],
+          "correctAnswer":"81"
+       },
+       {
+          "question":"If a triangle has a base of 6 units and a height of 8 units, what is its area?",
+          "options":[
+             "12 square units",
+             "24 square units",
+             "32 square units",
+             "48 square units"
+          ],
+          "correctAnswer":"32 square units"
+       },
+       {
+          "question":"What is the result of 15 divided by 3?",
+          "options":[
+             "5",
+             "10",
+             "15",
+             "3"
+          ],
+          "correctAnswer":"5"
+       },
+       {
+          "question":"If a square has an area of 49 square units, what is the length of one of its sides?",
+          "options":[
+             "7 units",
+             "14 units",
+             "21 units",
+             "28 units"
+          ],
+          "correctAnswer":"7 units"
+       },
+       {
+          "question":"What is the result of 6 factorial (6!)?",
+          "options":[
+             "12",
+             "36",
+             "720",
+             "1440"
+          ],
+          "correctAnswer":"720"
+       },
+       {
+          "question":"If a right triangle has one leg of length 5 and the hypotenuse of length 13, what is the length of the other leg?",
+          "options":[
+             "3",
+             "8",
+             "12",
+             "10"
+          ],
+          "correctAnswer":"3"
+       },
+       {
+          "question":"What is the result of 4 to the power of 3 (4^3)?",
+          "options":[
+             "8",
+             "12",
+             "16",
+             "64"
+          ],
+          "correctAnswer":"16"
+       },
+       {
+          "question":"If a parallelogram has a base of 10 units and a height of 7 units, what is its area?",
+          "options":[
+             "17 square units",
+             "30 square units",
+             "70 square units",
+             "14 square units"
+          ],
+          "correctAnswer":"30 square units"
+       },
+       {
+          "question":"What is the result of 18 divided by 6?",
+          "options":[
+             "3",
+             "6",
+             "9",
+             "12"
+          ],
+          "correctAnswer":"9"
+       },
+       {
+          "question":"If a cube has an edge length of 3 units, what is its volume?",
+          "options":[
+             "9 cubic units",
+             "12 cubic units",
+             "27 cubic units",
+             "18 cubic units"
+          ],
+          "correctAnswer":"27 cubic units"
+       },
+       {
+          "question":"What is the result of 10 minus 3?",
+          "options":[
+             "5",
+             "7",
+             "10",
+             "3"
+          ],
+          "correctAnswer":"7"
+       },
+       {
+          "question":"If a rectangle has a length of 12 units and a width of 9 units, what is its area?",
+          "options":[
+             "21 square units",
+             "36 square units",
+             "108 square units",
+             "45 square units"
+          ],
+          "correctAnswer":"108 square units"
+       },
+       {
+          "question":"What is the result of 13 multiplied by 2?",
+          "options":[
+             "15",
+             "26",
+             "39",
+             "52"
+          ],
+          "correctAnswer":"26"
+       },
+       {
+          "question":"If a circle has a diameter of 10 units, what is its radius?",
+          "options":[
+             "2 units",
+             "5 units",
+             "10 units",
+             "20 units"
+          ],
+          "correctAnswer":"5 units"
+       },
+       {
+          "question":"What is the result of 2 to the power of 5 (2^5)?",
+          "options":[
+             "4",
+             "8",
+             "16",
+             "32"
+          ],
+          "correctAnswer":"32"
+       },
+       {
+          "question":"If a triangle has sides of lengths 3, 4, and 5 units, what type of triangle is it?",
+          "options":[
+             "Equilateral",
+             "Isosceles",
+             "Scalene",
+             "Right"
+          ],
+          "correctAnswer":"Right"
+       }
+    ]
+ 
+ 
+   , "EnglishQuestions":[
+       {
+          "question":"What is the plural form of 'child'?",
+          "options":[
+             "Childs",
+             "Childes",
+             "Children",
+             "Child's"
+          ],
+          "correctAnswer":"Children"
+       },
+       {
+          "question":"Which of the following is a synonym for 'beautiful'?",
+          "options":[
+             "Ugly",
+             "Pretty",
+             "Strange",
+             "Ordinary"
+          ],
+          "correctAnswer":"Pretty"
+       },
+       {
+          "question":"Choose the correct form of the verb in the sentence: 'She ____ to the store yesterday.'",
+          "options":[
+             "Go",
+             "Goes",
+             "Gone",
+             "Went"
+          ],
+          "correctAnswer":"Went"
+       },
+       {
+          "question":"What is the opposite of 'brave'?",
+          "options":[
+             "Fearful",
+             "Timid",
+             "Cowardly",
+             "Shy"
+          ],
+          "correctAnswer":"Cowardly"
+       },
+       {
+          "question":"Which word is a noun in the sentence: 'The beautiful sunset amazed everyone'?",
+          "options":[
+             "Beautiful",
+             "Amazed",
+             "Sunset",
+             "Everyone"
+          ],
+          "correctAnswer":"Sunset"
+       },
+       {
+          "question":"What is the past tense of 'run'?",
+          "options":[
+             "Running",
+             "Ran",
+             "Runned",
+             "Runs"
+          ],
+          "correctAnswer":"Ran"
+       },
+       {
+          "question":"Which of the following is a conjunction?",
+          "options":[
+             "House",
+             "And",
+             "Quickly",
+             "Sing"
+          ],
+          "correctAnswer":"And"
+       },
+       {
+          "question":"Identify the correct sentence:",
+          "options":[
+             "She is singing a song.",
+             "She am singing a song.",
+             "Her is singing a song.",
+             "She are singing a song."
+          ],
+          "correctAnswer":"She is singing a song."
+       },
+       {
+          "question":"What is the superlative form of 'good'?",
+          "options":[
+             "Gooder",
+             "Better",
+             "Best",
+             "Goodest"
+          ],
+          "correctAnswer":"Best"
+       },
+       {
+          "question":"Which of the following is an adverb: quickly, table, bicycle, sun?",
+          "options":[
+             "Table",
+             "Bicycle",
+             "Quickly",
+             "Sun"
+          ],
+          "correctAnswer":"Quickly"
+       },
+       {
+          "question":"What is the comparative form of 'happy'?",
+          "options":[
+             "Happyer",
+             "Happiest",
+             "Happily",
+             "Happier"
+          ],
+          "correctAnswer":"Happier"
+       },
+       {
+          "question":"Choose the correct spelling:",
+          "options":[
+             "Neccessary",
+             "Necessarry",
+             "Necessary",
+             "Nesessary"
+          ],
+          "correctAnswer":"Necessary"
+       },
+       {
+          "question":"Which sentence is in the past tense?",
+          "options":[
+             "She will go to the store.",
+             "She is going to the store.",
+             "She went to the store.",
+             "She goes to the store."
+          ],
+          "correctAnswer":"She went to the store."
+       },
+       {
+          "question":"What is the plural form of 'cactus'?",
+          "options":[
+             "Cacti",
+             "Cactuses",
+             "Cactus",
+             "Cactuar"
+          ],
+          "correctAnswer":"Cacti"
+       },
+       {
+          "question":"What is the comparative form of 'small'?",
+          "options":[
+             "Small",
+             "Smaller",
+             "Smallest",
+             "Smallestly"
+          ],
+          "correctAnswer":"Smaller"
+       },
+       {
+          "question":"Which of these words is an adverb: quickly, table, bicycle, sun?",
+          "options":[
+             "Table",
+             "Bicycle",
+             "Quickly",
+             "Sun"
+          ],
+          "correctAnswer":"Quickly"
+       },
+       {
+          "question":"What is the past tense of 'drink'?",
+          "options":[
+             "Drink",
+             "Drank",
+             "Drunk",
+             "Drinks"
+          ],
+          "correctAnswer":"Drank"
+       },
+       {
+          "question":"What is the plural form of 'fish'?",
+          "options":[
+             "Fishs",
+             "Fishes",
+             "Fishies",
+             "Fish's"
+          ],
+          "correctAnswer":"Fishes"
+       },
+       {
+          "question":"Which word is a synonym for 'angry'?",
+          "options":[
+             "Happy",
+             "Furious",
+             "Sad",
+             "Tired"
+          ],
+          "correctAnswer":"Furious"
+       },
+       {
+          "question":"What is the antonym of 'empty'?",
+          "options":[
+             "Full",
+             "Blank",
+             "Alone",
+             "Quiet"
+          ],
+          "correctAnswer":"Full"
+       },
+       {
+          "question":"Identify the correct sentence:",
+          "options":[
+             "We is going to the park.",
+             "We am going to the park.",
+             "We are going to the park.",
+             "We going to the park."
+          ],
+          "correctAnswer":"We are going to the park."
+       },
+       {
+          "question":"What is the plural form of 'wolf'?",
+          "options":[
+             "Wolfes",
+             "Wolfs",
+             "Wolves",
+             "Wolf's"
+          ],
+          "correctAnswer":"Wolves"
+       },
+       {
+          "question":"What is the comparative form of 'strong'?",
+          "options":[
+             "Strongly",
+             "Stronger",
+             "Strongest",
+             "Stronglyest"
+          ],
+          "correctAnswer":"Stronger"
+       },
+       {
+          "question":"Which of the following is a preposition?",
+          "options":[
+             "Walk",
+             "Over",
+             "Jump",
+             "Fast"
+          ],
+          "correctAnswer":"Over"
+       },
+       {
+          "question":"What is the past tense of 'eat'?",
+          "options":[
+             "Eaten",
+             "Ate",
+             "Eated",
+             "Eat"
+          ],
+          "correctAnswer":"Ate"
+       },
+       {
+          "question":"What is the plural form of 'goose'?",
+          "options":[
+             "Goos",
+             "Geese",
+             "Goose",
+             "Gooses"
+          ],
+          "correctAnswer":"Geese"
+       },
+       {
+          "question":"Which word is a synonym for 'kind'?",
+          "options":[
+             "Rude",
+             "Generous",
+             "Cruel",
+             "Mean"
+          ],
+          "correctAnswer":"Generous"
+       },
+       {
+          "question":"What is the superlative form of 'tall'?",
+          "options":[
+             "Tall",
+             "Tallest",
+             "Taller",
+             "Talliest"
+          ],
+          "correctAnswer":"Tallest"
+       },
+       {
+          "question":"What is the comparative form of 'far'?",
+          "options":[
+             "Farer",
+             "Farest",
+             "Farther",
+             "Fartherest"
+          ],
+          "correctAnswer":"Farther"
+       },
+       {
+          "question":"Choose the correct form of the verb in the sentence: 'They ____ to the movies last night.'",
+          "options":[
+             "Go",
+             "Goes",
+             "Gone",
+             "Went"
+          ],
+          "correctAnswer":"Went"
+       }
+    ]
+ }
+ 

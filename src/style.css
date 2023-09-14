@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: rgb(237, 236, 236);
+   font-family: sans-serif;
+}
+.mainContainer{
+    /* background-color: red; */
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 48%;
+    transform: translate(-50%,-50%);
+
+}
+.mainContainer>h1{
+    color: #fff;
+text-shadow: 0px 0px 5px #000;
+    margin-bottom: 20px;
+}
+.mainContainer>h1>span{
+    color: #007fff;
+    text-shadow: none;
+}
+.question{
+
+    margin-bottom: 20px;
+    color: #fff;
+    border-radius: 5px ;
+    background-color: #007fff;
+    width: 700px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+.alertMessage{
+    color: red;
+}
+ul li{
+    list-style: none;
+    background-color: #fff;
+    box-shadow: 3px 5px 5px gray;
+    border-radius: 5px;
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    margin: 13px;
+    padding: 10px 0px;
+    cursor: pointer;
+}
+ul li:checked{
+    background-color: red;
+}
+ul li:hover{
+    background-color: #007fff;
+    color: #fff;
+}
+.btnDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+
+    /* background-color: red; */
+padding: 0px 10px;
+margin-top: 10px;
+}
+.outOff{
+    font-size: 14px ;
+    font-weight: bold;
+}
+.nextBtn{
+    padding: 10px 30px;
+    border-radius: 5px;
+cursor: pointer;
+box-shadow: 3px 5px 5px gray;
+font-size: 16px;
+    color: #fff;
+    border: none;
+    background-color: #007fff;
+
+}
+.checked{
+    background-color: #007fff;
+    color: #fff;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    position: relative;
+}
+.circleBGGreen{
+    
+    background-color: rgb(11, 214, 14);
+}
+.circleBGRed{
+    background-color: red;
+}
+.whiteCircle{
+    position: absolute;
+    background-color: #fff;
+    height: 95%;
+    width: 95%;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+/* padding: 10px; */
+}
+
+
+
+.mainSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.MainCenter{
+    background-color: #fff;
+    height: 50vh;
+    width: 50vw;
+    position: relative;
+    box-shadow: 0px 0px 10px gray;
+border-radius: 10px;
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.MainCenter>h1{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;
+    color: #007fff;
+}
+.nameAndSubject{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: salmon; */
+    width: 85%;
+    /* width: 100%; */
+    padding: 0px 20px;
+    padding-top: 30px;
+
+}
+#Name,#subject{
+    margin-top: 10px;
+}
+input,select{
+    /* margin-left: 20px; */
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px gray;
+}
+.startBtn{
+    position: absolute;
+    bottom: 20px;
+    right: 25px;
+    font-size: 16px;
+    /* width: 50px; */
+    padding: 8px 20px;
+    border: 2px solid #007fff;
+    outline: none;
+    background-color: #007fff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.pointsDiv{
+    /* background-color: aquamarine; */
+    margin-top: 50px;
+    padding-left:20px ;
+    color: gray;
+}
+.pointsDiv>p{
+    margin: 10px 0px;
+}
