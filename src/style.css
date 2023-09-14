@@ -208,7 +208,6 @@ input,select{
 
 @media only screen and (max-width: 600px) {
     .mainContainer{
-        background-color: red;
         width: 100%;
     }
     .MainCenter{
