@@ -1,38 +1,25 @@
-import React, { useRef, useState } from 'react'
+import React from 'react'
 
 const Result = ({ score, Tscore, playagain }) => {
     const result = score / Tscore * 100
-const circle= useRef()
-const circleValue= useRef()
-const [value,setValue]=useState()
-let progressStartValue=0
-let progressEndValue=50;
-let speed =100;
-// let progress=setInterval(()=>{
-//  progressStartValue++
-//  circleValue.current.style.background='conic-gradient(red ${progressStartValue*3.6}deg , #000 0deg)'
-// setValue(progressStartValue)
 
-//  if (progressStartValue==progressEndValue) {
-//     clearInterval(progress)
-//  }
-//  console.log(progressStartValue );
-// },speed)
-
-
-    // result.toFixed(0)
+    
+    
     return (
         <>
-            <div ref={circle}  className={` circle ${result>50?'circleBGGreen':'circleBGRed'}`}>
-                
+            <div className='circle' style={{
+                background: `conic-gradient(#007fff ${result * 3.6}deg , #cfcece 0deg)`
+
+            }} >
+
                 <div className='circleValue'>
-                {value}
-                    </div> 
-                
+                    {result.toFixed(0) + "%"}
+                </div>
+
             </div>
-            {result>50?
-                <div>Congratulations!</div>:
-                <div>Need Improvement!</div>
+            {result>50 ?
+                <div style={{color:"green",fontSize:"20px",fontWeight:"bolder"}}>Congratulations!</div> :
+                <div style={{color:"red",fontSize:"20px",fontWeight:"bolder"}}>Need Improvement!</div>
 
             }
             <div>

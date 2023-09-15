@@ -58,7 +58,10 @@ setScore(0)
             <div className="mainContainer">
                 {result?null: <h1>Hi <span>  {name}</span>, keep it up you can do it. </h1>}
                 {
-                    result? <Result playagain={playagain} score={score} Tscore={30}/> :<> <div className="question"><span>{num+1}. </span> {mydata[subject][num].question}</div>
+                    result? <Result playagain={playagain} score={score} Tscore={30}/> :<>
+                    <div className='questionDiv'>
+                     <div className="question"><span>{num+1}. </span> {mydata[subject][num].question}</div>
+                     </div>
                     {
                         alert?<p className='alertMessage'>Select any one option</p>:null
                     }

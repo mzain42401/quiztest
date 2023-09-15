@@ -51,7 +51,7 @@ setSubject(Subject)
                             <button type='submit' className='startBtn'>Start Quiz</button>
                         </div>
                         <div className='pointsDiv'>
-                            <p>1. You have 30 questions and you have total 30 mins.</p>
+                            <p>1. You have total  30  questions.</p>
                             <p>2. Don't use any other things for test. </p>
 
                         </div>
