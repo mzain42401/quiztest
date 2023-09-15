@@ -56,7 +56,7 @@ setScore(0)
     return (
         <>
             <div className="mainContainer">
-                <h1>Hi <span>  {name}</span>, keep it up you can do it. </h1>
+                {result?null: <h1>Hi <span>  {name}</span>, keep it up you can do it. </h1>}
                 {
                     result? <Result playagain={playagain} score={score} Tscore={30}/> :<> <div className="question"><span>{num+1}. </span> {mydata[subject][num].question}</div>
                     {
